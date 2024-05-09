@@ -27,15 +27,15 @@ Neste repositório, são disponibilizados detalhes sobre a criação do notável
 
 #### Desktop
 
-![](./design/Pokedex-Desktop.gif)
+![](./design/Desktop-buscador-de-cep.gif)
 
 #### Mobile
 
-![](./design/Pokedex-Mobile.gif)
+![](./design/Mobile-buscador-de-cep.gif)
 
 ### Link Deploy
 
-Siga o link e veja nossa [BuscaCEP]()
+Siga o link e veja nossa [BuscaCEP](https://buscador-de-cep-black.vercel.app/)
 
 ## Sobre 📖
 
@@ -105,5 +105,6 @@ Isso clonará o repositório para o diretório atual.
 
 ## Autor
 
-Linkedin - [Carlos Vítor Faria Barboza](https://www.linkedin.com/in/robson-jorge-62a12a26a/)
+Linkedin - [Carlos Vítor Faria Barboza](https://www.linkedin.com/in/carlos-barboza-080842218)
 
+instagram - [carlos_vfb.dev](https://www.instagram.com/carlos_vfb.dev)
