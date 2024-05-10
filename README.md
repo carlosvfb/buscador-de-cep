@@ -99,7 +99,7 @@ Agora você poderá ver o resultado em um ambiente de desenvolvimento através d
 
 1 - Em uma pasta de sua escolha, abra o terminal e digite o seguinte comando:
 ````
-git clone https://github.com/Robson-Jorge/projeto-pokedex.git
+git clone https://github.com/carlosvfb/buscador-de-cep.git
 ````
 Isso clonará o repositório para o diretório atual.
 
