@@ -110,4 +110,3 @@ Linkedin - [Carlos Vítor Faria Barboza](https://www.linkedin.com/in/carlos-barb
 instagram - [carlos_vfb.dev](https://www.instagram.com/carlos_vfb.dev)
 
 
-<a href="https://wakatime.com/badge/github/carlosvfb/buscador-de-cep"><img src="https://wakatime.com/badge/github/carlosvfb/buscador-de-cep.svg" alt="wakatime"></a>
