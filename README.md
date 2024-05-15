@@ -108,3 +108,9 @@ Isso clonará o repositório para o diretório atual.
 Linkedin - [Carlos Vítor Faria Barboza](https://www.linkedin.com/in/carlos-barboza-080842218)
 
 instagram - [carlos_vfb.dev](https://www.instagram.com/carlos_vfb.dev)
+
+<div>
+  
+<a href="https://wakatime.com/badge/github/carlosvfb/buscador-de-cep"><img src="https://wakatime.com/badge/github/carlosvfb/buscador-de-cep.svg" alt="wakatime"></a>
+
+</div>
